@@ -23,6 +23,10 @@ Artifact kinds assigned to this family:
 - `maynard_bound`
 - `maynard_certificate`
 
+This shard's routing metadata is synchronized with Xcelerator Toolkit v0.14.1.
+Listing a kind permits validated publication; it does not assert that an
+artifact of that kind is currently present.
+
 ## Layout
 
 ```text
